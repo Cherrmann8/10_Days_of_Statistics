@@ -1,0 +1,1 @@
+Charles Herrmann's work on the 10 Days of Statistics coding challenge from HackerRank.com. All examples get their input from stdin. Tasks, goals, and input format has been included for each problem. Problems were solved using Python 3.

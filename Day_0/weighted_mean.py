@@ -3,6 +3,7 @@ Author: Charles Herrmann
 Date: 4/13/21
 Objective: In the previous challenge, we calculated a mean. In this challenge, we practice calculating a weighted mean.
 Task: Given an array, X, of N integers and an array, W, representing the respective weights of X's elements, calculate and print the weighted mean of X's elements. Your answer should be rounded to a scale of 1 decimal place (i.e., 12.3 format).
+Input Format: The first line contains an integer, N, the number of elements in arrays X and W. The second line contains N space-separated integers that descdribe the elements of array X. The third line contains N space-separated integers that descdribe the elements of array W.
 """
 
 import math
