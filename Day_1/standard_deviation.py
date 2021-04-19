@@ -6,17 +6,13 @@ Task: Given an array, arr, of n integers, calculate and print the standard devia
 Input Format: The first line contains an integer, n, denoting the size of arr. The second line contains n space-separated integers that describe arr.
 """
 
-import math
-import os
-import random
-import re
-import sys
-
 #
 # Complete the 'stdDev' function below.
 #
 # The function accepts INTEGER_ARRAY arr as parameter.
 #
+
+import math
 
 
 def stdDev(arr):
