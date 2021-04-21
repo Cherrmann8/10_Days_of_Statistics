@@ -1,8 +1,12 @@
 """
 Author: Charles Herrmann
+
 Date: 4/13/21
+
 Objective: In this challenge, we practice calculating the mean, median, and mode.
+
 Task: Given an array, X, of N integers, calculate and print the respective mean, median, and mode on separate lines. If your array contains more than one modal value, choose the numerically smallest one.
+
 Input Format: The first line contains an integer, N, the number of elements in the array. The second line contains N space-separated integers that describe the array's elements.
 """
 

@@ -1,8 +1,12 @@
 """
 Author: Charles Herrmann
+
 Date: 4/14/21
+
 Objective: In this challenge, we practice calculating quartiles.
+
 Task: Given an array, arr, of n integers, calculate the respective first quartile (Q1), second quartile (Q2), and third quartile (Q3). It is guaranteed that Q1, Q2, and Q3 are integers.
+
 Input Format: The first line contains an integer, n, the number of elements in arr. The second line contains n space-separated integers, each an arr[i].
 """
 

@@ -1,8 +1,12 @@
 """
 Author: Charles Herrmann
+
 Date: 4/17/21
+
 Objective: In this challenge, we go further with binomial distributions.
+
 Task: A manufacturer of metal pistons finds that, on average, 12% of the pistons they manufacture are rejected because they are incorrectly sized. What is the probability that a batch of 10 pistons will contain: 1) No more than 2 rejects and 2) At least 2 rejects?
+
 Input Format: A single line containing the following values (denoting the respective percentage of defective pistons and the size of the current batch of pistons): 12 10. If you do not wish to read this information from stdin, you can hard-code it into your program.
 """
 

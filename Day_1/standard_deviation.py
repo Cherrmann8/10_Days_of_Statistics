@@ -1,8 +1,12 @@
 """
 Author: Charles Herrmann
+
 Date: 4/14/21
+
 Objective: In this challenge, we practice calculating standard deviation.
+
 Task: Given an array, arr, of n integers, calculate and print the standard deviation. Your answer should be in decimal form, rounded to a scale of 1 decimal place (i.e., 12.3 format). An error margin of +/- 0.1 will be tolerated for the standard deviation.
+
 Input Format: The first line contains an integer, n, denoting the size of arr. The second line contains n space-separated integers that describe arr.
 """
 

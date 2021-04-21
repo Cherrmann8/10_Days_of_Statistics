@@ -1,7 +1,10 @@
 """
 Author: Charles Herrmann
+
 Date: 4/15/21
+
 Objective: In this challenge, we practice calculating probability.
+
 Task: In a single toss of 2 fair (evenly-weighted) six-sided dice, find the probability that their sum will be at most 9.
 """
 
